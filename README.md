@@ -20,7 +20,7 @@ To see an example of how to use the code, see `main.py`.  You can execute this c
 
 # graph-gen
 
-Additionally in the repo there is another anonymization algorithm (generalization algorithm) described in:
+Additionally in the repo there is another anonymization algorithm (partitioning/generalization algorithm) described in:
 
 Michael Hay, Gerome Miklau, David Jensen, Don Towsley, Chao Li. [Resisting Structural Re-identification in Anonymized Social Networks](http://dx.doi.org/10.1007/s00778-010-0210-x). VLDB Journal, 2010.
 
