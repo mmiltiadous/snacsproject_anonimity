@@ -47,6 +47,6 @@ To see an example of how to use the code, see `run_partitioner.py`.  You can exe
 
 		python run_partitioner.py 
 
-All codes are very similar with the originals but with some minor changes, and have been applied to different datasets for which 
+All codes are very similar with the originals but with some minor changes, and have been applied to different datasets.
 
 
