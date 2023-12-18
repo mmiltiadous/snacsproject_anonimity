@@ -38,7 +38,7 @@ To run the generalization algorithm for each of the datasets, comment out the re
 
 The software depends on the following software and has been tested on the following versions:
 
-- [Python 2.6.1](http://www.python.org/)
+- [Python  2.7.18](using miniconda)
 - [Networkx 1.2](http://networkx.lanl.gov/)
 
 ## Usage
