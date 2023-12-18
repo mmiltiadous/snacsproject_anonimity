@@ -20,7 +20,7 @@ To see an example of how to use the code, see `main.py`.  You can execute this c
 
 # graph-gen
 
-Additionally in the repo there is another anonymization algorithm (generalization algorithm) described in:
+Additionally in the repository there is a second anonymization algorithm (generalization algorithm) described in:
 
 Michael Hay, Gerome Miklau, David Jensen, Don Towsley, Chao Li. [Resisting Structural Re-identification in Anonymized Social Networks](http://dx.doi.org/10.1007/s00778-010-0210-x). VLDB Journal, 2010.
 
@@ -28,6 +28,10 @@ and
 
 Michael Hay, Gerome Miklau, David Jensen, Don Towsley, and Philipp Weis. [Resisting Structural Re-identification in Anonymized Social Networks](http://www.vldb.org/pvldb/1/1453873.pdf)
 VLDB 2008.
+
+The file run_datasets.py is an alterated version of the run_partitioner.py which input 5 different datasets, which can be found under the folder datasets.
+To run the generalization algorithm for each of the datasets, comment out the rest of the 4 datasets and use the command:
+		python run_datasets.py
 
 ## Installation
 
