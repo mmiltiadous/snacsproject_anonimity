@@ -1,3 +1,5 @@
+Read me file by original authors:
+
 # Social Networks Anonymization
 
 This project is part of the Data Protection & Privacy exam for the MSc in Computer Science at University of Genoa.
