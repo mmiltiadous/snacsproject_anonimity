@@ -31,6 +31,7 @@ VLDB 2008.
 
 The file run_datasets.py is an alterated version of the run_partitioner.py which input 5 different datasets, which can be found under the folder datasets.
 To run the generalization algorithm for each of the datasets, comment out the rest of the 4 datasets and use the command:
+
 		python run_datasets.py
 
 ## Installation
