@@ -3,8 +3,8 @@
 
 This repository includes a Python implementation of the partitioning algorithm described in:
 https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1175&context=cs_faculty_pubs
-The algorithm have been previously published in this repository https://github.com/riki95/social-networks-anonymization
-In the plots_using_out_perturbation_ds.ipynb different plots have been made to compare the resultis on the different datasets
+The algorithm have been previously published in this repository https://github.com/riki95/social-networks-anonymization.
+In the plots_using_out_perturbation_ds.ipynb, different plots have been made to compare the results on the different datasets.
 
 ## Installation
 
