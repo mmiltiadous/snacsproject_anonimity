@@ -2,9 +2,9 @@
 # graph-perturbation
 
 This reposidory includes a python implementation of the perturbation algorithm described in:
-https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1175&context=cs_faculty_pubs
-The algorithm have been previously published in this reposidory https://github.com/riki95/social-networks-anonymization
-In the plots_using_out_perturbation_ds.ipynb different plots have been made to compare the resultis on the different datasets
+https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1175&context=cs_faculty_pubs 
+The algorithm have been previously published in this reposidory https://github.com/riki95/social-networks-anonymization but here there are some tweaks of it and implementations on different datasets which are also provided with their outputs.
+Finally, in the plots_using_out_perturbation_ds.ipynb different plots have been made to compare the resultis on the different datasets
 
 ## Installation
 
